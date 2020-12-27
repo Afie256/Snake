@@ -1,10 +1,3 @@
-# Day 2
-# TODO Detect collision with food
-# TODO Create a scoreboard
-# TODO Detect wall collision
-# TODO Detect collision with tail
-
-
 from turtle import Screen
 from snake import Snake
 from food import Food
